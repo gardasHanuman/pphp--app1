@@ -1,4 +1,4 @@
-ipeline{
+Pipeline{
     
     tools{
         dockerTool 'mydocker'
